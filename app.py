@@ -7,7 +7,7 @@ import time
 import math
 
 # ページ設定
-st.set_page_config(page_title="Merge with Kamatani", layout="wide")
+st.set_page_config(page_title="SYNC with Kamatani", layout="wide")
 
 # カスタムCSS: 黒背景 & テキストオンリー & SVGライン
 st.markdown("""
